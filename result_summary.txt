@@ -1,6 +1,0 @@
-No. of Students = 1
-Maximum Mark = 52
-Minimum Mark = 52
-Average Mark = 52.0
-
-5522 - 52 (W)

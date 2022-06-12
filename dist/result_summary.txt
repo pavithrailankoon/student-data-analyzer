@@ -1,0 +1,7 @@
+No. of Students = 2
+Maximum Mark = 76
+Minimum Mark = 62
+Average Mark = 69.0
+
+SC/2020/542 - 62 (C)
+SC/2020/541 - 76 (A)
